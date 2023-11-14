@@ -18,6 +18,10 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 ## CODE
+```
+DEVELOPED BY:HARINI V
+REGISTER NO: 212222230044
+```
 ### Data preprocessing:
 ```python
 import seaborn as sns
