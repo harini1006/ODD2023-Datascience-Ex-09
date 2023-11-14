@@ -1,12 +1,12 @@
 # Ex-09-Data-Visualization-
-
+## DATE:
 ## AIM
 To Perform Data Visualization on a complex dataset and save the data to a file. 
 
-# Explanation
+## Explanation
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -17,7 +17,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 
-# CODE
+## CODE
 ### Data preprocessing:
 ```python
 import seaborn as sns
@@ -107,5 +107,22 @@ sns.scatterplot(x="total_bill", y="tip", data=df)
 plt.title("Correlation between Tip Amount and Total Bill Amount")
 plt.show()
 ```
-# OUTPUT:
+## OUTPUT:
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/e1f9f22b-ef72-4ac1-80e6-5deacc9da1fa)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/e17d64f7-cce2-414b-a6a7-f1905db28481)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/8ff7c080-2fbd-4367-be77-165d856d427d)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/992a134d-95c0-41ba-b653-d3c90ec8e84b)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/fdf08fe4-be98-4bcf-b929-8cb24ad4a3aa)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/78e4c8d1-de9b-49f8-9e32-84de8b973408)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/f44d6c22-9a8e-48e7-a849-281a8dc80f85)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/302aa291-bfd8-460a-87d1-55b415070203)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/0bed1b4b-ea17-4080-beff-cd1dc7baa7ab)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/b9d0fc59-ba37-406a-ac33-a41721e5a0ee)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/c3ba49c7-735d-4048-96c7-75b6be69a09c)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/597b7301-9aea-4dcd-9d44-7cb070023a21)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/80ab2ab6-ddb0-430c-8bc6-9e6a93b169ca)
+![image](https://github.com/harini1006/ODD2023-Datascience-Ex-09/assets/113497405/38becb38-2471-405e-b23a-aad4b22a10ae)
+
+ ## RESULT:
+Thus, Data Visualization on a complex dataset and save the data to a file has been performed successfully.
 
